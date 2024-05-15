@@ -1,4 +1,4 @@
-For issue: https://github.com/vercel/next.js/issues/64802
+For issue: https://github.com/vercel/next.js/issues/65828
 
 This is a [Next.js](https://nextjs.org/) template to use when reporting a
 [bug in the Next.js repository](https://github.com/vercel/next.js/issues) with
